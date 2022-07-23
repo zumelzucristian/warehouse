@@ -1,7 +1,7 @@
 {
   "name": "warehouse",
   "version": "1.0.0",
-  "description": "proyecto para un almacen"
+  "description": "proyecto para un almacen",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
